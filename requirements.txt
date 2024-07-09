@@ -5,3 +5,4 @@ datapipelines>=1.0.7
 Pillow
 arrow<1.0.0
 requests
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
